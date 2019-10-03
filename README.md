@@ -2,11 +2,11 @@
 Simple binary to hexadecimal and backwards
 # How to use
 
-`from bihex import *`
+`from BiHex import *`
 
 To create an instance, use:
 
-`foo = BiHex("b10110100")`, where the letter behind the number is the base (2 = b, 8 = o, 10 = d, 16 = x)
+`foo = Bihex("b10110100")`, where the letter behind the number is the base (2 = b, 8 = o, 10 = d, 16 = x)
 
 To display the number in:
 - decimal: `foo.returnnum("d")`, gives `180`
