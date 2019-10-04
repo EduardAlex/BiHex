@@ -1,6 +1,6 @@
 # BiHex
 
-Simple binary to hexadecimal and backwards
+Simple base convert
 
 # How to install
 
