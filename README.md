@@ -1,5 +1,11 @@
 # BiHex
+
 Simple binary to hexadecimal and backwards
+
+# How to install
+
+`pip install bihex-domedi`
+
 # How to use
 
 `from BiHex import *`
