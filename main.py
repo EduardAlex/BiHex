@@ -23,4 +23,6 @@ class Bihex:
 			return hex(self.number)
 		if base == "o":
 			return oct(self.number)
-			
+
+	def returnbase(self):
+		return self.base
