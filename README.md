@@ -19,3 +19,5 @@ To display the number in:
 - binary: `foo.returnnum("b")`, gives  `"0b10110100"`
 - hexadecimal: `foo.returnnum("x")`, gives `"0xB4"`
 - octal: `foo.returnnum("o")`. gives `"0o264"`
+
+To display the number's original base, use `foo.returnbase()`
