@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="bihexdomedi",
-    version="0.0.21",
+    name="bihex-domedi",
+    version="0.0.6",
     author="David Eduard",
     author_email="edyalex.david@gmail.com",
     description="Convert to and from multiple bases",
